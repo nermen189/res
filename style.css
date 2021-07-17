@@ -1,0 +1,464 @@
+/*the about part*/
+#about{
+    position: absolute;
+    top:3300px;
+    height:430px;
+    width:100%;
+}
+h4{
+    color:gray;
+    margin: 40px;
+}
+#abo{
+    position: absolute;
+    left:50px;
+}
+#join{
+    position: absolute;
+    left:600px;
+}
+#uselinks{
+    position: absolute;
+    left:1100px;
+}
+#aboutpart{
+    position: absolute;
+    left:70px;
+    top:80px;
+}
+#joinpart{
+    position: absolute;
+    top:80px;
+    left:620px;
+}
+#linkspart{
+    position: absolute;
+    left:1100px;
+    top:80px;
+}
+#about a{
+    text-decoration: none;
+    color:black;
+    display: block;
+    margin-top: 20px;
+}
+#about a:hover{
+    background-color: gainsboro;
+}
+#icon a img {
+    width:20px;
+    height:20px;
+    margin-left: 6px;
+}
+#icon a {
+    display: inline;
+}
+#icon{
+    position: absolute;
+    top:360px;
+    left:300px;
+}
+#about #copyright{
+    position: absolute;
+    top:360px;
+    left:900px;
+    font-weight: bold;
+}
+/*the end*/
+/*the app part*/
+
+#app{
+    position: absolute;
+    top:2800px;
+    width:1000px;
+    background-color: gold;
+    height:400px;
+}
+#app img {
+    width:500px;
+    height:500px;
+}
+#app #circle {
+    width:400px;
+    height:400px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    left:800px;
+}
+.draw{
+    width:70px;
+    height:70px;
+    background-color: green;
+    border-radius: 50%;
+}
+.draw1{
+    width:10px;
+    height:10px;
+    background-color: green;
+    border-radius: 50%;
+}
+#one{
+    position: absolute;
+    left:1000px;
+}
+#four{
+    position: absolute;
+    top:300px;
+    left:1200px;
+}
+#three{
+    position: absolute;
+    top:200px;
+    left:900px;
+}
+#app h2{
+    color:green;
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 120px;
+}
+#app h3 {
+    margin-left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#app .btn{
+    text-decoration: none;
+    color:white;
+    background-color: green;
+    width:190px;
+    height:50px;
+    border:none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding:5px;
+    margin:5px;
+}
+#app #android{
+    position: absolute;
+    left:110px;
+    top:300px;
+}
+#app #iphone{
+    position: absolute;
+    left:570px;
+    top:300px;
+}
+#app #androidimg{
+    position: absolute;
+    top:308px;
+    left:120px;
+    width:50px;
+    height:50px;
+}
+#app #iphoneimg{
+    position: absolute;
+    top:308px;
+    left:580px;
+    width:50px;
+    height:50px;
+}
+#app a:hover{
+    background-color: white;
+    color:green;
+    border: 1px solid black;
+}
+/*the end */
+/*the order part */
+#order{
+    position: absolute;
+    top:2200px;
+    height:500px;
+    width:100%;
+}
+#order img {
+    position: absolute;
+    left:700px;
+    width:700px;
+    height:500px;
+}
+#order h2{
+    position: absolute;
+    left:100px;
+    color:green;
+    font-size: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    top:50px;
+}
+#order p{
+    position: absolute;
+    left:100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top:180px;
+}
+#order a {
+    text-decoration: none;
+    color:white;
+    background-color: green;
+    width:130px;
+    font-size: 26px;
+    height:30px;
+    padding:10px;
+    margin: 5px;
+    left:300px;
+    position: absolute;
+    top:370px;
+    font-weight: bold;
+}
+#order a:hover{
+    background-color: gold;
+    color:black;
+    border: 1px solid green;
+}
+/*the end*/
+/*the more part*/
+#more{
+    width:100%;
+    height:800px;
+    background-color: gold;
+    position: absolute;
+    top:1400px;
+}
+#more svg{
+    width:100%;
+    position: absolute;
+    top:500px;
+}
+#more h2{
+    position: absolute;
+    color:black;
+    font-size: 40px;
+    left:500px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#more #morepra {
+    position: absolute;
+    left:400px;
+    color:black;
+    font-weight: bold;
+    top:80px;
+    font-family:unset;
+}
+#more #menuwords{
+    position: absolute;
+    left:80px;
+    top:250px;
+}
+#more #menuwords p{
+    font-size: 21px;
+}
+#more #menuimgs{
+    position: absolute;
+    top:250px;
+    left:220px;
+}
+#more #menuimgs img {
+    width:30px;
+    height:30px;
+    display: block;
+    margin-top:18px;
+}
+#more #menuslide {
+    width:700px;
+    height:600px;
+    position: absolute;
+    top:160px;
+    left:380px;
+}
+#more h3{
+    position: absolute;
+    top:280px;
+    left:1200px;
+}
+/*the end*/
+/*the restarant part*/
+#rest{
+    width:100%;
+    height:460px;
+    position: absolute;
+    top:880px;
+}
+#rest img {
+    width:570px;
+    height:400px;
+    position: absolute;
+    left:800px;
+    top:30px;
+    border: 1px solid green;
+    padding:10px;
+    margin: 5px;
+}
+#rest h2 {
+    position: absolute;
+    left:100px;
+    color:green;
+    font-size: 40px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#rest p{
+    position: absolute;
+    left:80px;
+    top:100px;
+    color:black;
+}
+#rest a {
+    margin:10px;
+    padding: 10px;
+    color:white;
+    background-color: green;
+    font-weight: bold;
+    width:90px;
+    height:30px;
+    position: absolute;
+    top:300px;
+    left:300px;
+    text-decoration: none;
+    font-size: 26px;
+}
+#rest a:hover{
+    background-color: white;
+    border:1px solid black;
+    color:green;
+
+}
+#rest .draw2{
+    background-color: black;
+    width:6px;
+    height: 6px;
+    border-radius: 50%;
+    padding: 2px;
+    margin: 2px;
+    border: 1px solid green;
+}
+#rest #c1{
+    position: absolute;
+    top:470px;
+    left:1060px;
+}
+#rest #c2{
+    position: absolute;
+    top:470px;
+    left:1080px;
+}
+#rest #c3{
+    position: absolute;
+    top:470px;
+    left:1100px;
+}
+#rest #c4{
+    position: absolute;
+    top:470px;
+    left:1120px;
+}
+#rest #c5{
+    position: absolute;
+    top:470px;
+    left:1140px;
+}
+header{
+    width:100%;
+    height:60px;
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid black;
+   position: static;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+header #logo {
+    width:90px;
+    height:90px; 
+    position: absolute;
+    left:50px;
+    top:-18px;
+
+
+
+}
+header h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    left:150px;
+    font-size: 40px;
+    top:-20px;
+    color:hotpink;
+}
+ul li a {
+    text-decoration: none;
+    color:black;
+}
+ul li {
+    float: left;
+    margin: 10px;
+    list-style: none;
+}
+ul {
+    position: absolute;
+    left:900px;
+    top:4px;
+}
+ul li a:hover {
+    color:green;
+    font-weight: bold;
+}
+header #logoimg img {
+    width:30px;
+    height:30px;
+    margin: 10px;
+}
+header #logoimg{
+    position: absolute;
+    left:1300px;
+    top:8px;
+}
+header #logoimg img:hover{
+    background-color:lightgray;
+}
+/*the end */
+/*the body part */
+
+#all img{
+    width:700px;
+    height:600px;
+    position: absolute;
+    left:660px;
+    top:100px;
+}
+#all h1 {
+    font-size: 50px;
+    font-weight: bold;
+    position: absolute;
+    top:200px;
+    left:120px;
+    color:green;
+}
+#all p{
+    position: absolute;
+    top:300px;
+    left:120px;
+    color:black;
+}
+#all a {
+    position: absolute;
+    top:400px;
+    left:260px;
+    color:white;
+    background-color: green;
+   font-weight: bold;
+   text-decoration: none;
+   padding: 5px;
+   margin: 5px;
+   height:30px;
+   width:120px;
+   font-size: 23px;
+}
+#all a:hover{
+    background-color: white;
+    border:1px solid black ;
+    color:green;
+}
